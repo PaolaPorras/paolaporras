@@ -19,12 +19,10 @@ En lenguajes de programación HTML, CSS, JS, PHP.
 
 ---
 
-### 🛠 Frameworks y herramientas
-Github, 
-### 🚀 CRM
+### 🛠 Conocimientos principales.
 
-- Wordpress
-- Shopify
+### 🚀 CRM
+Wordpress, Shopify
   
 
 ### 🛠 Frontend
@@ -34,11 +32,10 @@ Html, Css, Php, Bootstrap, Materialize,
 Mysql
 
 ### 🛠 Servidores y alojamientos
-Hostinger, Cpanel,
+Hostinger, godaddy, Cpanel.
 
 ### 🛠 Diseño
 Figma, XD, Photoshop, Ilustraitor, Corel.
-
 
 ---
 
